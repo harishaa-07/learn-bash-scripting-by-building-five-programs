@@ -1,3 +1,3 @@
 #!/bin/bash
 
-#Bingo Number Generator
+# Bingo Number Generator
