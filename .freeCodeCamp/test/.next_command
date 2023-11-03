@@ -11,3 +11,4 @@ echo -e "\n~~ Questionnaire ~~\n"
 ./questionnaire.sh
 echo -e "\n~~ Questionnaire ~~\n"
 ./questionnaire.sh
+./questionnaire.sh
