@@ -105,3 +105,4 @@ sleep 3
 echo -e "\n~~ Countdown Timer ~~\n"
 echo -e "\n~~ Countdown Timer ~~\n"
 ./countdown.sh 1
+help while
