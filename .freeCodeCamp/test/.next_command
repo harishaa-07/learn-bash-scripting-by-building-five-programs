@@ -74,3 +74,6 @@ ls --color=auto
 ls --color=auto -y
 help test
 [[ -a countdown.sh ]]
+[[ -a countdown.sh ]]
+[[ -a bad_file.txt ]]
+__vsc_prompt_cmd_original
