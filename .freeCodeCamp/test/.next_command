@@ -104,3 +104,4 @@ sleep 3
 ./countdown.sh 3
 echo -e "\n~~ Countdown Timer ~~\n"
 echo -e "\n~~ Countdown Timer ~~\n"
+./countdown.sh 1
