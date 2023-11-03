@@ -19,3 +19,4 @@ which bash
 sh countdown.sh
 touch countdown.sh
 sh countdown.sh
+./countdown.sh
