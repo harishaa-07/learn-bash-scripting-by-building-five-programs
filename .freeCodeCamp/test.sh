@@ -1,9 +1,18 @@
 #!/bin/bash
+
+echo -e "\n~~ Questionnaire ~~\n"
+
 QUESTION1="What's your name?"
+QUESTION2="Where are you from?"
+
 echo $QUESTION1
 read NAME
-echo Hello $NAME.
-QUESTION2="Where are you from?"
+
 echo $QUESTION2
 read LOCATION
-echo $LOCATION
+
+echo Hello $NAME from $LOCATION.
+
+QUESTION3="What's your favorite coding website?" 
+
+echo $QUESTION3
