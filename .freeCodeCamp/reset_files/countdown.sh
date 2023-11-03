@@ -1,2 +1,2 @@
 #!/bin/bash
-# Program that counts down to zero from a given argument
+# Program that counts down to zero from a given argumentComments in bash look like this: # <comment>. Add a comment below the shebang that says Program that counts down to zero from a given argument so people know what it does. Note that the shebang is a special case and is not treated like a comment.
