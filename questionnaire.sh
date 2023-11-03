@@ -12,3 +12,5 @@ echo $QUESTION2
 read LOCATION
 
 echo Hello $NAME from $LOCATION.
+echo
+echo "\n~~ Questionnaire ~~\n"
