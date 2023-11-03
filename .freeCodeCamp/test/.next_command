@@ -48,3 +48,6 @@ help [[if]]
 help [if]
 help if
 help [$1 -lt 5]
+__vsc_prompt_cmd_original
+help if
+help [[
