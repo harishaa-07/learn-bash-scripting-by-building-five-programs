@@ -1,5 +1,7 @@
 #!/bin/bash
 
 # Program that counts down to zero from a given argument
-
-echo $1
+if [[ CONDITION ]]
+then
+  STATEMENTS
+fi
