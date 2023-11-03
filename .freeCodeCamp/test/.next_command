@@ -65,3 +65,5 @@ echo $?
 [[ 4 -ne 5 ]]
 [[ 4 -ne 5 ]]
 [[ 10 -ne 5 ]]
+bad_command
+bad_command
