@@ -33,3 +33,8 @@ man if
 help if
 ./countdown.sh arg1
 ./countdown.sh arg2
+./countdown.sh arg2
+./countdown.sh arg1
+./countdown.sh arg2
+./countdown.sh 2
+./countdown.sh arg1
